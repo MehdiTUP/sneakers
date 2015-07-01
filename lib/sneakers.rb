@@ -1,7 +1,7 @@
 require "sneakers/version"
 require 'thread/pool'
 require 'bunny'
-require 'logger'
+require 'serverengine'
 
 module Sneakers
   module Handlers
